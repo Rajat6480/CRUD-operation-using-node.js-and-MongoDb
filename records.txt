@@ -1,0 +1,10 @@
+
+function now() { [native code] }:::1:POST:/api/user
+function now() { [native code] }:::1:GET:/api/user
+function now() { [native code] }:::1:PATCH:/api/user/661a0d145ebdd6aea1aa87d9
+function now() { [native code] }:::1:PATCH:/api/user/661a3fe4ea4c389e1859cf3b
+function now() { [native code] }:::1:POST:/api/user
+function now() { [native code] }:::1:GET:/api/user
+function now() { [native code] }:::1:PATCH:/api/user/661a3fe4ea4c389e1859cf3b
+function now() { [native code] }:::1:DELETE:/api/user/661a3fe4ea4c389e1859cf3b
+function now() { [native code] }:::1:GET:/api/user
