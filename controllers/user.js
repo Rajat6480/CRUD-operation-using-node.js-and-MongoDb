@@ -2,12 +2,12 @@ const User = require("../models/user")
 
 async function handleGetAllUsers(req,res){
     const allDbUsers = await User.find({})
-    return res.json(allDbUsers);
+    return res.status(200).json(allDbUsers);
 }
 
 async function handleGetUserById(req,res){
     const user = await User.findById(req.params.id)
-    return res.json(user);
+    return res.status(200).json(user);
 }
 
 async function handleCreateNewUser (req,res){

@@ -11,4 +11,4 @@ app.use(express.urlencoded({extended:false}))
 
 app.use(logReqRes("records.txt"))
 app.use("/api/user",userRouter);
-app.listen(PORT,()=>console.log(`Server started at port ${PORT}`))
+module.exports = app.listen(PORT,()=>console.log(`Server started at port ${PORT}`))

@@ -8,3 +8,10 @@ function now() { [native code] }:::1:GET:/api/user
 function now() { [native code] }:::1:PATCH:/api/user/661a3fe4ea4c389e1859cf3b
 function now() { [native code] }:::1:DELETE:/api/user/661a3fe4ea4c389e1859cf3b
 function now() { [native code] }:::1:GET:/api/user
+1713458678829:::ffff:127.0.0.1:GET:/user
+1713458728834:::ffff:127.0.0.1:GET:/api/user
+1713458815653:::ffff:127.0.0.1:GET:/api/user
+1713458842589:::ffff:127.0.0.1:GET:/api/user
+1713458865543:::ffff:127.0.0.1:GET:/api
+1713458883013:::ffff:127.0.0.1:GET:/api/user
+1713506404852:::ffff:127.0.0.1:GET:/api/user
